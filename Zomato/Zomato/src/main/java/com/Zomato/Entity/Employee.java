@@ -20,4 +20,5 @@ public class Employee {
     private int mobNo;
     private int panNo;
     private String email;
+    private String password;
 }
