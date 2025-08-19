@@ -19,4 +19,5 @@ public class Employee {
     private String address;
     private int mobNo;
     private int panNo;
+    private String email;
 }
